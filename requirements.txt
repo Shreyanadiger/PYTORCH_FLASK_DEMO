@@ -1,0 +1,2 @@
+# requirements minimal for Hello World
+Flask>=2.2
